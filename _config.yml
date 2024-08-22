@@ -4,7 +4,7 @@ description: > # text below the logo image
   <strong>Email: logeshg248@gmail.com</strong>
   <br>
   <br>
-  <a href="https://www.linkedin.com/in/logeshg2/" target="_blank"><h3>LinkedIn</h3></a>  |  <a href="https://github.com/logeshg2" target="_blank"><h3>GitHub</h3></a>
+  <a href="https://www.linkedin.com/in/logeshg2/" target="_blank"><h4>LinkedIn</h4></a>  |  <a href="https://github.com/logeshg2" target="_blank"><h4>GitHub</h4></a>
 show_downloads: false
 theme: jekyll-theme-minimal
 github:
