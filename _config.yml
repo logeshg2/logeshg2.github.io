@@ -2,7 +2,7 @@ title: Logesh G
 logo: /assets/img/pic.png
 #description: text below image
 show_downloads: false
-#theme: jekyll-theme-minimal
-theme: jekyll-whiteglass
+theme: jekyll-theme-minimal
+# theme: jekyll-whiteglass
 github:
   is_project_page: false
