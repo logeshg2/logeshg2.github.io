@@ -1,13 +1,12 @@
 title: Logesh G
 logo: /assets/img/pic.png
 description: > # text below the logo image
-  <strong style="font-weight: bold; color: #e41919;">Email: logeshg248@gmail.com</strong>
+  <strong>Email: logeshg248@gmail.com</strong>
   <br>
-  <a href="https://www.linkedin.com/in/logeshg2/" target="_blank">/LinkedIn</a>
+  <a href="https://www.linkedin.com/in/logeshg2/" target="_blank">LinkedIn</a>
   <br>
   <a href="https://github.com/logeshg2" target="_blank">GitHub</a>
 show_downloads: false
 theme: jekyll-theme-minimal
-# theme: jekyll-whiteglass
 github:
   is_project_page: false
