@@ -6,7 +6,7 @@ description: > # text below the logo image
   <a href="https://www.linkedin.com/in/logeshg2/" target="_blank">LinkedIn</a>
   <br>
   <a href="https://github.com/logeshg2" target="_blank">GitHub</a>
-show_downloads: false
+show_downloads: true
 theme: jekyll-theme-minimal
 # theme: jekyll-whiteglass
 github:
