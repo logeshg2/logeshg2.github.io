@@ -13,6 +13,8 @@ Hi I'm a third year Computer Science and Business Systems student at Bannari Amm
 
 ### Scara Robotic Arm
 
+![final_mushroom 1](https://github.com/user-attachments/assets/efadf420-1185-4d25-83a8-03c394a0a17f)
+
 <p float="left">
   <img src="https://github.com/logeshg2/Autonomous_pick_and_place_robot/blob/main/Images/Scara_Robot.jpg"  width="40%" /> 
   <img src="https://github.com/logeshg2/Autonomous_pick_and_place_robot/blob/main/Images/Scara_Robot_2.jpg"  width="40%" />
