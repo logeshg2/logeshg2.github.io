@@ -1,23 +1,31 @@
 ## About Me
 Hi I'm a third year Computer Science and Business Systems student at Bannari Amman Institute of Technology. 
 
+<br>
+
 ## Area of Interest
+
+<br>
 
 ## Skills
 
+<br>
+
 ## Competitions
 
+<br>
+
 ### Robocup ARM Challenge 2024
+
+<br>
 
 ## Projects
 
 ### Scara Robotic Arm
 
-![final_mushroom 1](https://github.com/user-attachments/assets/efadf420-1185-4d25-83a8-03c394a0a17f)
-
 <p float="left">
-  <img src="https://github.com/logeshg2/Autonomous_pick_and_place_robot/blob/main/Images/Scara_Robot.jpg"  width="40%" /> 
-  <img src="https://github.com/logeshg2/Autonomous_pick_and_place_robot/blob/main/Images/Scara_Robot_2.jpg"  width="40%" />
+  <img src="https://github.com/logeshg2/Autonomous_pick_and_place_robot/blob/main/Images/Scara_Robot.jpg"  style="width: 40%; height: auto;" /> 
+  <img src="https://github.com/logeshg2/Autonomous_pick_and_place_robot/blob/main/Images/Scara_Robot_2.jpg"  style= "width: 40%; height: auto;" />
 </p>
 I have built autonomous scara robot which is capable of picking parcel packages from a tote and placing them on a conveyor in warehouse. The autonomous operation is fully hardcoded in python. Yolov8 object detection algorithm is used to detect parcels. 
 
