@@ -1,5 +1,5 @@
 ## About Me
-Hi I'm a third year Computer Science and Business Systems student at Bannari Amman Institute of Technology. 
+Hi! I’m a third-year Computer Science and Business Systems student at Bannari Amman Institute of Technology with a strong passion for robotics and computer vision. My work focuses on developing innovative solutions that blend perception, vision, and robotics.
 
 <br>
 
@@ -12,8 +12,6 @@ Hi I'm a third year Computer Science and Business Systems student at Bannari Amm
 <br>
 
 ## Competitions
-
-<br>
 
 ### Robocup ARM Challenge 2024
 
