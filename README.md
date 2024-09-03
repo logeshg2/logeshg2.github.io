@@ -17,6 +17,8 @@ Hi I'm a third year Computer Science and Business Systems student at Bannari Amm
 
 ### Robocup ARM Challenge 2024
 
+<a href="http://www.youtube.com/watch?v=y-bqcrgRPyc&t=6s"><img src="https://github.com/user-attachments/assets/39f06abd-71b1-42cc-8330-eaa0c597b4aa" alt="arm challenge image" style="width:800px;height:480px;"></a>
+
 <br>
 
 ## Projects
@@ -34,5 +36,3 @@ From this project I have learned to apply inverse kinematics for an 2DOF robotic
 For more information check: [Project Repo](https://github.com/logeshg2/Autonomous_pick_and_place_robot/).
 
 ### Autonomous Drones
-
-### Micromouse Maze Solver
