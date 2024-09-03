@@ -29,10 +29,16 @@ Hi I'm a third year Computer Science and Business Systems student at Bannari Amm
   <img src="https://github.com/logeshg2/Autonomous_pick_and_place_robot/blob/main/Images/Scara_Robot.jpg?raw=true"  style="width: 40%; height: auto;" /> 
   <img src="https://github.com/logeshg2/Autonomous_pick_and_place_robot/blob/main/Images/Scara_Robot_2.jpg?raw=true"  style= "width: 40%; height: auto;" />
 </div>
-I have built autonomous scara robot which is capable of picking parcel packages from a tote and placing them on a conveyor in warehouse. The autonomous operation is fully hardcoded in python. Yolov8 object detection algorithm is used to detect parcels. 
+I developed an autonomous SCARA robot capable of picking parcel packages from a tote and placing them on a conveyor in a warehouse environment. The entire operation is hardcoded in Python, and the robot uses the YOLOv8 object detection algorithm to accurately detect parcels.
 
-From this project I have learned to apply inverse kinematics for an 2DOF robotic arm and learned to integrate different hardware's like camera, robotic arm with the software to perform a particular task.
+This project provided me with hands-on experience in applying inverse kinematics for a 2DOF robotic arm and integrating various hardware components, such as cameras and robotic arms, with software to perform specific tasks effectively.
 
 For more information check: <a href="https://github.com/logeshg2/Autonomous_pick_and_place_robot/" target="_blank">Project Repo</a>
 
 ### Autonomous Drones
+
+![Screenshot from 2024-08-22 21-05-34](https://github.com/user-attachments/assets/e4a0dfed-5104-4f85-96d9-e328a4b5f394)
+
+I have experience working on the computer vision component of an autonomous drone, including some drone control using the DroneKit library. My work primarily involves simulating YOLOv8 algorithms in a Gazebo environment, with a focus on basic object tracking and detection tasks. 
+
+For more information check: <a href="https://github.com/logeshg2/autonomous_drone_py/" target="_blank">Project Repo</a>
