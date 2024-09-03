@@ -17,7 +17,7 @@ Hi I'm a third year Computer Science and Business Systems student at Bannari Amm
 
 ### Robocup ARM Challenge 2024
 
-<a href="http://www.youtube.com/watch?v=y-bqcrgRPyc&t=6s"><img src="https://github.com/user-attachments/assets/39f06abd-71b1-42cc-8330-eaa0c597b4aa" alt="arm challenge image"></a>
+<a href="http://www.youtube.com/watch?v=y-bqcrgRPyc&t=6s" target="_blank"><img src="https://github.com/user-attachments/assets/39f06abd-71b1-42cc-8330-eaa0c597b4aa" alt="arm challenge image"></a>
 
 <br>
 
@@ -33,6 +33,6 @@ I have built autonomous scara robot which is capable of picking parcel packages 
 
 From this project I have learned to apply inverse kinematics for an 2DOF robotic arm and learned to integrate different hardware's like camera, robotic arm with the software to perform a particular task.
 
-For more information check: [Project Repo](https://github.com/logeshg2/Autonomous_pick_and_place_robot/).
+For more information check: <a href="https://github.com/logeshg2/Autonomous_pick_and_place_robot/" target="_blank">Project Repo</a>
 
 ### Autonomous Drones
