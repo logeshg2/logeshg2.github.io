@@ -17,7 +17,7 @@ Hi I'm a third year Computer Science and Business Systems student at Bannari Amm
 
 ### Robocup ARM Challenge 2024
 
-<a href="http://www.youtube.com/watch?v=y-bqcrgRPyc&t=6s"><img src="https://github.com/user-attachments/assets/39f06abd-71b1-42cc-8330-eaa0c597b4aa" alt="arm challenge image" style="width:800px;height:480px;"></a>
+<a href="http://www.youtube.com/watch?v=y-bqcrgRPyc&t=6s"><img src="https://github.com/user-attachments/assets/39f06abd-71b1-42cc-8330-eaa0c597b4aa" alt="arm challenge image"></a>
 
 <br>
 
