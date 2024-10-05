@@ -6,6 +6,7 @@ Hi! I’m a third-year Computer Science and Business Systems student at Bannari 
 *2022 - 2026*
 - **Degree :** Bachelor of Technology in Computer Science and Business Systems <br>
 - **CGPA :** 8.4
+
 ---
 
 ## Current Works
