@@ -27,15 +27,13 @@ Hi! I’m a third-year Computer Science and Business Systems student at Bannari 
 
 ### Scara Robotic Arm
 
-<div float="left">
-  <img src="https://github.com/logeshg2/Autonomous_pick_and_place_robot/blob/main/Images/Scara_Robot.jpg?raw=true"  style="width: 40%; height: auto;" /> 
-  <img src="https://github.com/logeshg2/Autonomous_pick_and_place_robot/blob/main/Images/Scara_Robot_2.jpg?raw=true"  style= "width: 40%; height: auto;" />
-</div>
+<a href="https://github.com/logeshg2/SCARA-Shape-Sorter" target="_blank"><img src="https://github.com/user-attachments/assets/5731b7a9-b237-4baf-b9f1-083fe9dc5c3d" alt="shape sorter scara"></a>
+
 I developed an autonomous SCARA robot capable of picking parcel packages from a tote and placing them on a conveyor in a warehouse environment. The entire operation is hardcoded in Python, and the robot uses the YOLOv8 object detection algorithm to accurately detect parcels.
 
 This project provided me with hands-on experience in applying inverse kinematics for a 2DOF robotic arm and integrating various hardware components, such as cameras and robotic arms, with software to perform specific tasks effectively.
 
-For more information check: <a href="https://github.com/logeshg2/Autonomous_pick_and_place_robot/" target="_blank">Project Repo</a>
+For more information check: <a href="https://github.com/logeshg2/SCARA-Shape-Sorter/" target="_blank">Project Repo</a>
 
 ### Autonomous Drones
 
