@@ -3,8 +3,8 @@ Hi! I’m a third-year Computer Science and Business Systems student at Bannari 
 
 ### **Education** 
 **Bannari Amman Institute of Technology**, Tamil Nadu, India 2022 - 2026 <br>
-&nbsp;&nbsp;&nbsp;&nbsp; - **Degree :** Bachelor of Technology in Computer Science and Business Systems <br>
-&nbsp;&nbsp;&nbsp;&nbsp; - **CGPA :** 8.4
+- **Degree :** Bachelor of Technology in Computer Science and Business Systems <br>
+- **CGPA :** 8.4
 
 <br>
 
