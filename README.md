@@ -1,6 +1,11 @@
 ## About Me
 Hi! I’m a third-year Computer Science and Business Systems student at Bannari Amman Institute of Technology with a strong passion for robotics and computer vision. My work focuses on developing innovative solutions that blend perception, vision, and robotics.
 
+### **Education** 
+**Bannari Amman Institute of Technology**, Tamil Nadu, India 2022 - 2026 <br>
+&nbsp;&nbsp;&nbsp;&nbsp; - **Degree :** Bachelor of Technology in Computer Science and Business Systems <br>
+&nbsp;&nbsp;&nbsp;&nbsp; - **CGPA :** 8.4
+
 <br>
 
 ## Area of Interest
