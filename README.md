@@ -21,7 +21,7 @@ Hi! I’m a third-year Computer Science and Business Systems student at Bannari 
 
 ## Projects & Competitions
 
-### :arrow_forward: RoboCup ARM Challenge 2024 - Finalist (Team: Log Robotics) 
+### :small_orange_diamond:RoboCup ARM Challenge 2024 - Finalist (Team: Log Robotics) 
 
 <a href="http://www.youtube.com/watch?v=y-bqcrgRPyc&t=6s" target="_blank"><img src="https://github.com/user-attachments/assets/39f06abd-71b1-42cc-8330-eaa0c597b4aa" alt="arm challenge image"></a>
 
@@ -31,7 +31,7 @@ My submission was selected as one of the top 6 finalists in the 2024 competition
 
 For more information check: <a href="http://www.youtube.com/watch?v=y-bqcrgRPyc&t=6s" target="_blank">Submission Video</a>
 
-### :arrow_forward: SCARA Robotic Arm
+### SCARA Robotic Arm
 
 <a href="https://github.com/logeshg2/SCARA-Shape-Sorter" target="_blank"><img src="https://github.com/user-attachments/assets/5731b7a9-b237-4baf-b9f1-083fe9dc5c3d" alt="shape sorter scara"></a>
 
@@ -41,9 +41,9 @@ This project provided me with hands-on experience in applying inverse kinematics
 
 For more information check: <a href="https://github.com/logeshg2/SCARA-Shape-Sorter/" target="_blank">Project Repo</a>
 
-### :arrow_forward: F1TENTH Sim Racing - Phase 1 Qualified (Team: Log Robotics) 
+### F1TENTH Sim Racing - Phase 1 Qualified (Team: Log Robotics) 
 
-### :arrow_forward: Autonomous Drones
+### Autonomous Drones
 
 ![Screenshot from 2024-08-22 21-05-34](https://github.com/user-attachments/assets/e4a0dfed-5104-4f85-96d9-e328a4b5f394)
 
