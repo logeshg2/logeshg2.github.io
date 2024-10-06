@@ -10,7 +10,7 @@ Hi! I’m a third-year Computer Science and Business Systems student at Bannari 
 ---
 
 ## Current Works
-https://github.com/user-attachments/assets/b2552086-2cc3-4685-97a9-8165f4163f94
+![scara](https://github.com/user-attachments/assets/9f92cea8-00a2-4f10-b470-e711481a97fb)
 
 ---
 
