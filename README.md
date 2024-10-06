@@ -43,6 +43,14 @@ For more information check: <a href="https://github.com/logeshg2/SCARA-Shape-Sor
 
 ### F1TENTH Sim Racing - Phase 1 Qualified (Team: Log Robotics) 
 
+![frame](https://github.com/user-attachments/assets/ad88c8aa-8b5c-4b1c-9d74-6275fbd4826f)
+
+I developed a wall-following algorithm for the 1st F1Tenth Sim Racing League. The algorithm was implemented using ROS2 and Python.
+
+My docker image of the algorithm can be found here: <a href="https://hub.docker.com/r/logeshg2/log_robotics_api" target="_blank">My docker repo Link</a>
+
+Demo Video: <a href="https://www.youtube.com/watch?v=nB4EuUxQzng" target="_blank">Link</a>
+
 ### Autonomous Drones
 
 ![Screenshot from 2024-08-22 21-05-34](https://github.com/user-attachments/assets/e4a0dfed-5104-4f85-96d9-e328a4b5f394)
