@@ -10,7 +10,10 @@ Hi! I’m a third-year Computer Science and Business Systems student at Bannari 
 ---
 
 ## Skills
-
+- **Programming Languages:** Python, C, C++, MATLAB
+- **Computer vision:** Object Detectors, Perspective Projection, Pose Estimation
+- **Frameworks / Libraries:** OpenCV, Numpy, PyTorch(basics), ROS(basics)
+- **Tools:** Github, Docker, Visual Studio Code, Arduino IDE
 
 ---
 
