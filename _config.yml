@@ -10,3 +10,5 @@ show_downloads: false
 theme: jekyll-theme-minimal
 github:
   is_project_page: false
+plugins:
+  - jemoji
