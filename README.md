@@ -9,23 +9,29 @@ Hi! I’m a third-year Computer Science and Business Systems student at Bannari 
 
 ---
 
-## Current Works
-![scara](https://github.com/user-attachments/assets/9f92cea8-00a2-4f10-b470-e711481a97fb)
-
----
-
 ## Skills
 
 
 ---
 
+## Current Projects
+![scara](https://github.com/user-attachments/assets/9f92cea8-00a2-4f10-b470-e711481a97fb)
+
+---
+
 ## Projects & Competitions
 
-### Robocup ARM Challenge 2024
+### **RoboCup ARM Challenge 2024 - Finalist** (Team: Log Robotics) 
 
 <a href="http://www.youtube.com/watch?v=y-bqcrgRPyc&t=6s" target="_blank"><img src="https://github.com/user-attachments/assets/39f06abd-71b1-42cc-8330-eaa0c597b4aa" alt="arm challenge image"></a>
 
-### Scara Robotic Arm
+I developed the complete perception and control stack for the RoboCup ARM Challenge 2024. The objective was to pick and sort objects such as bottles, cans, and pouches based on their color and label. I utilized MATLAB tools to build the project’s code base, incorporating a custom fine-tuned YOLOv4 object detector and object pose estimation through Principal Component Analysis (PCA) for the perception stack.
+
+My submission was selected as one of the top 6 finalists in the 2024 competition.
+
+For more information check: <a href="http://www.youtube.com/watch?v=y-bqcrgRPyc&t=6s" target="_blank">Submission Video</a>
+
+### **SCARA Robotic Arm**
 
 <a href="https://github.com/logeshg2/SCARA-Shape-Sorter" target="_blank"><img src="https://github.com/user-attachments/assets/5731b7a9-b237-4baf-b9f1-083fe9dc5c3d" alt="shape sorter scara"></a>
 
@@ -35,7 +41,9 @@ This project provided me with hands-on experience in applying inverse kinematics
 
 For more information check: <a href="https://github.com/logeshg2/SCARA-Shape-Sorter/" target="_blank">Project Repo</a>
 
-### Autonomous Drones
+### **F1TENTH Sim Racing - Phase 1 Qualified** (Team: Log Robotics) 
+
+### **Autonomous Drones**
 
 ![Screenshot from 2024-08-22 21-05-34](https://github.com/user-attachments/assets/e4a0dfed-5104-4f85-96d9-e328a4b5f394)
 
