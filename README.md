@@ -18,7 +18,14 @@ Hi! I’m a third-year Computer Science and Business Systems student at Bannari 
 ---
 
 ## Current Projects
+
+### Robotic Manipulators (more specifically SCARA Robot)
+
 ![scara](https://github.com/user-attachments/assets/9f92cea8-00a2-4f10-b470-e711481a97fb)
+
+I am currently working on robotic manipulators, specifically focusing on the visual perception component of a SCARA robotic arm. My work involves implementing hand-eye calibration techniques, such as the TSAI method from the OpenCV library. Additionally, I am exploring learning-based approaches for object manipulation, utilizing deep reinforcement learning, imitation learning, and Vision-Language Actions (VLAs).
+
+For more information check: <a href="https://github.com/logeshg2/SCARA-Shape-Sorter/" target="_blank">Project Repo</a>
 
 ---
 
@@ -42,7 +49,7 @@ I developed an autonomous SCARA robot capable of picking parcel packages from a 
 
 This project provided me with hands-on experience in applying inverse kinematics for a 2DOF robotic arm and integrating various hardware components, such as cameras and robotic arms, with software to perform specific tasks effectively.
 
-For more information check: <a href="https://github.com/logeshg2/SCARA-Shape-Sorter/" target="_blank">Project Repo</a>
+For more information check: <a href="https://github.com/logeshg2/Autonomous_pick_and_place_robot" target="_blank">Project Repo</a>
 
 ### F1TENTH Sim Racing - Phase 1 Qualified (Team: Log Robotics) 
 
