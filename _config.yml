@@ -5,11 +5,11 @@ description: > # text below the logo image
   <br>
   <br>
   <a href="https://www.linkedin.com/in/logeshg2/" target="_blank">LinkedIn</a>  |  <a href="https://github.com/logeshg2" target="_blank">GitHub</a> | 
-  <a href="https://logeshg2.github.io/" target="_blank">Website</a> | <a href="assets/docs/Resume.pdf" target="_blank">Resume</a> 
-  <p style="text-align:center;">| <a href="https://www.youtube.com/@LogRobotics" target="_blank">Youtube</a> |</p>
+  <a href="https://www.youtube.com/@LogRobotics" target="_blank">Youtube</a> | <a href="assets/docs/Resume.pdf" target="_blank">Resume</a> 
 show_downloads: false
 theme: jekyll-theme-minimal
 github:
   is_project_page: false
 plugins:
   - jemoji
+# <p style="text-align:center;">| <a href="https://www.youtube.com/@LogRobotics" target="_blank">Youtube</a> |</p>
