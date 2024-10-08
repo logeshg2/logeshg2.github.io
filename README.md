@@ -53,7 +53,7 @@ For more information check: <a href="https://github.com/logeshg2/Autonomous_pick
 
 ### F1TENTH Sim Racing - Phase 1 Qualified (Team: Log Robotics) 
 
-<a href="https://www.youtube.com/watch?v=nB4EuUxQzng"><img src="https://github.com/user-attachments/assets/ad88c8aa-8b5c-4b1c-9d74-6275fbd4826f" alt="frame_sim_racing"></a>
+<a href="https://www.youtube.com/watch?v=nB4EuUxQzng" target="_blank"><img src="https://github.com/user-attachments/assets/ad88c8aa-8b5c-4b1c-9d74-6275fbd4826f" alt="frame_sim_racing"></a>
 
 I developed a wall-following algorithm for the 1st F1Tenth Sim Racing League. The algorithm was implemented using ROS2 and Python.
 
