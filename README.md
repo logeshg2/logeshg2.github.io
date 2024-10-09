@@ -59,6 +59,7 @@ I developed a wall-following algorithm for the 1st F1Tenth Sim Racing League. Th
 
 My docker image of the algorithm can be found here: <a href="https://hub.docker.com/r/logeshg2/log_robotics_api" target="_blank">My docker repo Link</a>
 
+Qualification round performance: <a href="https://youtu.be/SzUYifnIKxE?si=eqaUzJYM-I6juQCV" target="_blank">Link</a> | 
 Demo Video: <a href="https://www.youtube.com/watch?v=nB4EuUxQzng" target="_blank">Link</a>
 
 ### Autonomous Drones
