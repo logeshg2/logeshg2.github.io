@@ -58,6 +58,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-target-blank
 
 author:
   name   : "Logesh G"
@@ -72,7 +73,7 @@ author:
     #   url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: <a href="https://github.com/logeshg2" target="_blank"></a> #"https://github.com/logeshg2"
+      url: "https://github.com/logeshg2"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/logeshg2/"
