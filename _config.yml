@@ -23,6 +23,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 linkedin_username: logeshg2
 github_username: logeshg2
 minimal_mistakes_skin: dark #default
+logo: "/assets/images/favicon.ico"
 search: true
 
 # Build settings
@@ -71,7 +72,7 @@ author:
     #   url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/logeshg2"
+      url: <a href="https://github.com/logeshg2" target="_blank"></a> #"https://github.com/logeshg2"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/logeshg2/"
