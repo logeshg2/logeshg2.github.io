@@ -50,6 +50,11 @@ include:
 #   - vendor/gems/
 #   - vendor/ruby/
 
+markup:
+  defaultMarkdownHandler: blackFriday
+  blackFriday:
+    hrefTargetBlank: true
+
 # Plugins (previously gems:)
 plugins:
   - jekyll-paginate
