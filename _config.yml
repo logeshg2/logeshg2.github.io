@@ -25,6 +25,7 @@ github_username: logeshg2
 minimal_mistakes_skin: dark #default
 logo: "/assets/images/favicon.ico"
 search: true
+target_blank: true
 
 # Build settings
 markdown: kramdown
@@ -49,11 +50,6 @@ include:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-
-markup:
-  defaultMarkdownHandler: blackFriday
-  blackFriday:
-    hrefTargetBlank: true
 
 # Plugins (previously gems:)
 plugins:
