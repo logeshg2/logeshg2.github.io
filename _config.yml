@@ -64,8 +64,8 @@ plugins:
 author:
   name   : "Logesh G"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : >
-    Student <br />
+  bio    : |+
+    Student 
     Robotics and Computer Vision Enthusiast
   location: "Erode, India"
   links:
