@@ -3,6 +3,19 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+## About Me
+Hi! I’m a third-year Computer Science and Business Systems student at Bannari Amman Institute of Technology with a strong passion for robotics and computer vision. My work focuses on developing innovative solutions that blend perception, vision, and robotics.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+**Education**  <br>
+ **Bannari Amman Institute of Technology**, Tamil Nadu, India <br>
+ *2022 - 2026*
+ - **Degree :** Bachelor of Technology in Computer Science and Business Systems <br>
+ - **CGPA :** 8.4
+
+---
+
+## Skills
+- **Programming Languages:** Python, C, C++, MATLAB
+- **Computer vision:** Object Detectors, Perspective Projection, Pose Estimation
+- **Frameworks / Libraries:** OpenCV, Numpy, PyTorch(basics), ROS(basics)
+- **Tools:** Github, Docker, Visual Studio Code, Arduino IDE
