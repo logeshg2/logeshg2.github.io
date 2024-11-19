@@ -1,5 +1,6 @@
 ---
 permalink: /
+layout: single
 title: "Home"
 ---
 
