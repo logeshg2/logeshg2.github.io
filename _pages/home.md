@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: "Home"
 ---
 
 Hi! I’m a third-year Computer Science and Business Systems student at Bannari Amman Institute of Technology with a strong passion for robotics and computer vision. My work focuses on developing innovative solutions that blend perception, vision, and robotics.
