@@ -3,7 +3,7 @@ permalink: /proj_comp/
 Title: "Projects and Competitions"
 ---
 
-### RoboCup ARM Challenge 2024 - Finalist (Team: Log Robotics) 
+RoboCup ARM Challenge 2024 - Finalist (Team: Log Robotics) 
 
 <a href="http://www.youtube.com/watch?v=y-bqcrgRPyc&t=6s" target="_blank"><img src="https://github.com/user-attachments/assets/39f06abd-71b1-42cc-8330-eaa0c597b4aa" alt="arm challenge image"></a>
 
