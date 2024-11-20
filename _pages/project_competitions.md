@@ -1,6 +1,6 @@
 ---
 permalink: /proj_comp/
-Title: "Projects and Competitions"
+title: "Projects and Competitions"
 ---
 
 ## Projects
