@@ -87,7 +87,7 @@ author:
       icon: "fab fa-fw fa-youtube"
       url: "https://www.youtube.com/@LogRobotics"
     - label: "Resume"
-      icon: "fab fa-fw fa-link"
+      icon: "fas fa-fw fa-file"
       url: "assets/Resume.pdf"
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
