@@ -1,6 +1,6 @@
 ---
 permalink: /proj_comp/
-Title: Projects & Competitions
+Title: Projects and Competitions
 ---
 
 ### RoboCup ARM Challenge 2024 - Finalist (Team: Log Robotics) 
