@@ -25,7 +25,7 @@ Hi! I’m a third-year Computer Science and Business Systems student at Bannari 
 
 ### Robotic Manipulators
 
-![scara](https://github.com/user-attachments/assets/9f92cea8-00a2-4f10-b470-e711481a97fb)
+![scara_gif](/assets/images/scara.gif)
 
 I am currently working on robotic manipulators, specifically focusing on the visual perception component of a robotic arm. My work involves implementing hand-eye calibration techniques, such as the TSAI method from the OpenCV library and object manipulation tasks. Additionally, I am exploring learning-based approaches for object manipulation, utilizing deep reinforcement learning, imitation learning, and Vision-Language Actions (VLAs).
 
