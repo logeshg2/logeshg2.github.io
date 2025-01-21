@@ -1,12 +1,12 @@
 main:
-  - title: "Home"
-    url: /
+  # - title: "Home"
+  #   url: /
   - title: "About"
-    url: /about/
+    url: /
   - title: "Projects and Competitions"
-    url: /proj_comp/
-  - title: "Certificates and Learning"
-    url: /cert_learn/
+    url: /projects_and_competitions/
+  - title: "Certifications"
+    url: /certifications/
   # - title: "Posts"
   #   url: /posts/
   # - title: "Categories"
