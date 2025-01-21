@@ -1,5 +1,5 @@
 ---
-permalink: /proj_comp/
+permalink: /projects_and_competitions/
 title: "Projects and Competitions"
 ---
 
