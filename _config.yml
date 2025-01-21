@@ -67,13 +67,13 @@ author:
   name   : "Logesh G"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : |+
-    Student 
+    Student <br>
     Robotics and Computer Vision Enthusiast
   location: "Tamil Nadu, India"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://logeshg2.github.io"
+    # - label: "Website"
+      # icon: "fas fa-fw fa-link"
+      # url: "https://logeshg2.github.io"
     # - label: "Twitter"
     #   icon: "fab fa-fw fa-twitter-square"
     #   url: "https://twitter.com/"
