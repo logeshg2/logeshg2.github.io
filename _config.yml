@@ -66,12 +66,12 @@ plugins:
 author:
   name   : "Logesh G"
   avatar : "/assets/images/bio-photo.jpg"
+  email: "logeshg248@gmail.com"
   bio    : |+
     Student <br>
-    Robotics and Computer Vision Enthusiast <br>
+    Robotics and Computer Vision Enthusiast <br> <br>
     logeshg248@gmail.com
   location: "Tamil Nadu, India"
-  # email: "logeshg248@gmail.com"
   links:
     # - label: "Website"
       # icon: "fas fa-fw fa-link"
