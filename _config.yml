@@ -66,12 +66,11 @@ plugins:
 author:
   name   : "Logesh G"
   avatar : "/assets/images/bio-photo.jpg"
-  email: "logeshg248@gmail.com"
   bio    : |+
     Student <br>
-    Robotics and Computer Vision Enthusiast <br> <br>
-    logeshg248@gmail.com
+    Robotics and Computer Vision Enthusiast
   location: "Tamil Nadu, India"
+  # email: "logeshg248@gmail.com"
   links:
     # - label: "Website"
       # icon: "fas fa-fw fa-link"
@@ -79,6 +78,8 @@ author:
     # - label: "Twitter"
     #   icon: "fab fa-fw fa-twitter-square"
     #   url: "https://twitter.com/"
+    - label: "logeshg248@gmail.com"
+      icon: "fab fa-fw fa-email"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/logeshg2"
