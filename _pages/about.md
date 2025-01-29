@@ -16,8 +16,14 @@ Hi! I’m a third-year Computer Science and Business Systems student at Bannari 
 ## Skills
 - **Programming Languages:** Python, C, C++, MATLAB
 - **Computer vision:** Object Detectors, Perspective Projection, Pose Estimation
-- **Frameworks / Libraries:** OpenCV, Numpy, PyTorch(basics), ROS(basics)
-- **Tools:** Github, Docker, Visual Studio Code, Arduino IDE
+- **Frameworks / Libraries:** OpenCV, PyTorch(basics), ROS1 / ROS2(basics)
+- **Tools:** Github, Docker, Arduino IDE
+
+---
+
+## Area of Interests
+- Computer Vision (Robot Perception)
+- Robotic Manipulation
 
 ---
 
