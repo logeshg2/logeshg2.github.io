@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Logesh G
-email: logeshg248@gmail.com
+email: "logeshg248@gmail.com"
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -67,13 +67,14 @@ author:
   name   : "Logesh G"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : |+
-    Student 
+    Student <br>
     Robotics and Computer Vision Enthusiast
   location: "Tamil Nadu, India"
+  email: "logeshg248@gmail.com"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://logeshg2.github.io"
+    # - label: "Website"
+      # icon: "fas fa-fw fa-link"
+      # url: "https://logeshg2.github.io"
     # - label: "Twitter"
     #   icon: "fab fa-fw fa-twitter-square"
     #   url: "https://twitter.com/"
