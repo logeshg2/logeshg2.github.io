@@ -66,6 +66,7 @@ plugins:
 author:
   name   : "Logesh G"
   avatar : "/assets/images/bio-photo.jpg"
+  min-width : 80em
   bio    : |+
     Student <br>
     Robotics and Computer Vision Enthusiast
