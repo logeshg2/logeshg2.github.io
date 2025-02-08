@@ -13,9 +13,9 @@ $serif              : "PT Serif", Georgia, Times, serif;
 $sans-serif         : "PT Sans", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 $sans-serif-narrow  : "PT Sans Narrow", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 
-$global-font-family : $serif;
-$header-font-family : $sans-serif-narrow;
-$caption-font-family: $serif;
+// $global-font-family : $serif;
+// $header-font-family : $sans-serif-narrow;
+// $caption-font-family: $serif;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
