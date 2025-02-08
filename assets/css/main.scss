@@ -36,7 +36,7 @@ search: false
     border-radius: 50%;
     @include breakpoint($large) {
       padding: 0px;
-      border: 1px solid $border-color;
+      border: 2px solid $border-color;
     }
 }
 
