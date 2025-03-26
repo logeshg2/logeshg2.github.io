@@ -29,10 +29,10 @@ Hi! I’m a third-year Computer Science and Business Systems student at Bannari 
 
 ## Current Projects
 
-### Robotic Manipulators
+### Object 6D Pose Estimation
 
-![moveo](/assets/images/scara.gif)
+I am currently learning and exploring both traditional and modern ways of estimating object's 6d pose, more specifically in robot manipulation. **[WIP]**
 
-I am currently working on robotic manipulators, specifically focusing on the visual perception component of a robotic arm. My work involves implementing object detection algorithms, grasp pose estimation algorithms and 3D perception for robotic manipulators. Additionally, I am exploring learning-based approaches for object manipulation, utilizing deep reinforcement learning, imitation learning, and Vision-Language Actions (VLAs).
+### Robotic Manipulators (Fanuc Robotic Arm)
 
-For more information check: <a href="https://github.com/logeshg2/SCARA-Shape-Sorter/" target="_blank">Project Repo</a>
+I am currently working on developing the robot model and high level software control for Fanuc Robotic arm (LR Mate 200iD 4s model). Documentation and demo can be seen here: <a href="https://github.com/logeshg2/LR_Mate_200iD_4S-Robot-Model/" target="_blank">Project Repo</a> .
