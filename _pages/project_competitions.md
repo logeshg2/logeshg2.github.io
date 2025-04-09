@@ -7,13 +7,23 @@ title: "Projects and Competitions"
 
 ### SCARA Robotic Arm
 
-<a href="https://github.com/logeshg2/SCARA-Shape-Sorter" target="_blank"><img src="/assets/images/scara_img.png" alt="shape sorter scara"></a>
-
 I developed an autonomous SCARA robot capable of picking parcel packages from a tote and placing them on a conveyor in a warehouse environment. The entire operation is hardcoded in Python, and the robot uses the YOLOv8 object detection algorithm to accurately detect parcels.
 
 This project provided me with hands-on experience in applying inverse kinematics for a 2DOF robotic arm and integrating various hardware components, such as cameras and robotic arms, with software to perform specific tasks effectively.
 
+<a href="https://github.com/logeshg2/SCARA-Shape-Sorter" target="_blank"><img src="/assets/images/scara_img.png" alt="shape sorter scara"></a>
+
 For more information check: <a href="https://github.com/logeshg2/Autonomous_pick_and_place_robot" target="_blank">Project Repo</a>
+
+---
+
+### BCN-3D Moveo Robotic Arm
+
+My team and I built the open source BCN-3D Moveo robotic arm. Where I contributed by developing the software part in this project. I developed the Moveo model in Robotics Toolbox which enabled IK, FK, and trajectory planning algorithms. I have used ROS1 framework the communication between the different sub-systems.
+
+<a href="https://youtu.be/r1xQ_Y04pLA?si=p7QPUlimRWkuEtJb" target="_blank"><img src="/assets/images/img.jpg" alt="moveo robot arm"></a>
+
+For more information check: <a href="https://github.com/logeshg2/Moveo_5-DOF_Software"> Project Repo </a>
 
 ---
 
