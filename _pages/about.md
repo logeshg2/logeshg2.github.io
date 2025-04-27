@@ -36,3 +36,5 @@ I am currently learning and exploring both traditional and modern ways of estima
 ### Robotic Manipulators (Fanuc Robotic Arm)
 
 I am currently working on developing the robot model and high level software control for Fanuc Robotic arm (LR Mate 200iD 4s model). Documentation and demo can be seen here: <a href="https://github.com/logeshg2/LR_Mate_200iD_4S-Robot-Model/" target="_blank">Project Repo</a> .
+
+[![fanuc robot](https://img.youtube.com/vi/GiFRFGhvIwU/0.jpg)](https://www.youtube.com/watch?v=GiFRFGhvIwU)
