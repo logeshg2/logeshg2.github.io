@@ -16,7 +16,7 @@ Hi! I’m a final-year Computer Science and Business Systems student at Bannari 
 ## Experience
 ### 1. **Mowito:** (Internship) 
 - Robotics Software Intern
-- May 2025 - Present
+- May 2025 - December 2025
 
 ---
 
