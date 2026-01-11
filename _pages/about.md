@@ -3,7 +3,7 @@ permalink: /
 title: "About"
 ---
 
-Hi! I’m a final-year Computer Science and Business Systems student at Bannari Amman Institute of Technology with a strong passion for robotics and computer vision. My work focuses on developing innovative solutions that blend perception, vision, and robotics.
+Hi! I’m a final-year Computer Science and Business Systems student at Bannari Amman Institute of Technology with a strong passion for robotics and computer vision. My work focuses on developing innovative solutions that blend perception, vision, and robotics. I am currently working on robot manipulators.
 
 **Education**  <br>
  **Bannari Amman Institute of Technology**, Tamil Nadu, India <br>
@@ -14,7 +14,7 @@ Hi! I’m a final-year Computer Science and Business Systems student at Bannari 
 ---
 
 ## Experience
-### 1. **Mowito:** (Internship) 
+**1. MOWITO:** (Internship) 
 - Robotics Software Intern
 - May 2025 - December 2025
 
@@ -22,26 +22,22 @@ Hi! I’m a final-year Computer Science and Business Systems student at Bannari 
 
 ## Skills
 - **Programming Languages:** Python, C, C++, MATLAB
-- **Computer vision:** Object Detectors, Pose Estimation
-- **Frameworks / Libraries:** OpenCV, PyTorch(basics), ROS1 / ROS2(basics)
-- **Tools:** Github, Docker, Arduino IDE
+- **Robotics / Computer vision:** ROS2 Drivers, Object Detectors, Pose Estimation
+- **Frameworks / Libraries:** ROS2, OpenCV, PyTorch(basics)
+- **Tools:** Git, Linux, Docker, Arduino IDE
 
 ---
 
 ## Area of Interests
-- Computer Vision (Robot Perception)
 - Robotic Manipulation
+- Computer Vision (Robot Perception)
 
 ---
 
 ## Current Projects
 
-### Object 6D Pose Estimation
+### Robot Manipulation (Using Visual Servoing)
 
-I am currently learning and exploring both traditional and modern ways of estimating object's 6d pose, more specifically in robot manipulation. **[WIP]**
+I am currently working on robot manipulators (Fanuc LR Mate 200id 4s to be specific) to perform useful tasks like assembly and house hold tasks using visual servoing. Working on Fanuc ROS2 drivers (Ethernet/IP based) to be compatible with both position and velocity controller. <a href="https://github.com/logeshg2/fanuc_ros2_drivers" target="_blank">ROS2 Driver Repo</a> .
 
-### Robotic Manipulators (Fanuc Robotic Arm)
-
-I am currently working on developing the robot model and high level software control for Fanuc Robotic arm (LR Mate 200iD 4s model). Documentation and demo can be seen here: <a href="https://github.com/logeshg2/LR_Mate_200iD_4S-Robot-Model/" target="_blank">Project Repo</a> .
-
-[![fanuc robot](https://img.youtube.com/vi/GiFRFGhvIwU/0.jpg)](https://www.youtube.com/watch?v=GiFRFGhvIwU)
+[![demo video](https://img.youtube.com/vi/GiFRFGhvIwU/0.jpg)](https://youtube.com/shorts/YU_tRlE8B2c?si=dBGqjYevtWvgx6NP)
