@@ -40,4 +40,4 @@ Hi! I’m a final-year Computer Science and Business Systems student at Bannari 
 
 I am currently working on robot manipulators (Fanuc LR Mate 200id 4s to be specific) to perform useful tasks like assembly and house hold tasks using visual servoing. Working on Fanuc ROS2 drivers (Ethernet/IP based) to be compatible with both position and velocity controller. <a href="https://github.com/logeshg2/fanuc_ros2_drivers" target="_blank">ROS2 Driver Repo</a> .
 
-[![demo video](https://img.youtube.com/vi/GiFRFGhvIwU/0.jpg)](https://youtube.com/shorts/YU_tRlE8B2c?si=dBGqjYevtWvgx6NP)
+[![demo video](https://img.youtube.com/vi/GiFRFGhvIwU/0.jpg)](https://youtu.be/NGTes-JwkvE?si=l04_K7E69eAU-hdv)
