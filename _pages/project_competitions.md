@@ -5,6 +5,18 @@ title: "Projects and Competitions"
 
 ## Projects
 
+### Visual Servoing - Precise Assembly
+
+I am currently working on robot manipulators (Fanuc LR Mate 200id 4s to be specific) to perform useful tasks like assembly and house hold tasks using visual servoing.
+
+[![demo video](../assets/images/vs_fanuc.png)](https://youtu.be/xhDitOjOgP4?si=rT_XWNHFYGiVujal)
+
+Fanuc LR Mate ROS2 Driver: <a href="https://github.com/logeshg2/fanuc_ros2_drivers" target="_blank">ROS2 Driver Repo</a>
+<br> 
+Visual Servoing Pkg: <a href="https://github.com/logeshg2/visual-servoing-pkg" target="_blank">Visua Servoing Pkg</a>
+
+---
+
 ### SCARA Robotic Arm
 
 I developed an autonomous SCARA robot capable of picking parcel packages from a tote and placing them on a conveyor in a warehouse environment. The entire operation is hardcoded in Python, and the robot uses the YOLOv8 object detection algorithm to accurately detect parcels.
