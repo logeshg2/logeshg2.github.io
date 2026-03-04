@@ -12,6 +12,8 @@ I am currently working on robot manipulators (Fanuc LR Mate 200id 4s to be speci
 <!-- [![demo video](../assets/images/vs_fanuc.png)](https://youtu.be/xhDitOjOgP4?si=rT_XWNHFYGiVujal) -->
 
 {% include video id="xhDitOjOgP4" provider="youtube" %}
+<br>
+{% include video id="lK--YVCa8BM" provider="youtube" %}
 
 Fanuc LR Mate ROS2 Driver: <a href="https://github.com/logeshg2/fanuc_ros2_drivers" target="_blank">ROS2 Driver Repo</a>
 <br> 

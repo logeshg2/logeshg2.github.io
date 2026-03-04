@@ -22,8 +22,8 @@ Hi! I’m a final-year Computer Science and Business Systems student at Bannari 
 
 ## Skills
 - **Programming Languages:** Python, C, C++, MATLAB
-- **Robotics / Computer vision:** ROS2 Drivers, Object Detectors, Pose Estimation
-- **Frameworks / Libraries:** ROS2, OpenCV, PyTorch(basics)
+- **Robotics / Computer vision:** Kinematics, ROS2 Drivers, Object Detectors, Pose Estimation
+- **Frameworks / Libraries:** ROS2, OpenCV, NumPy, Py Trees, PyTorch(basics)
 - **Tools:** Git, Linux, Docker, Arduino IDE
 
 ---
@@ -42,4 +42,4 @@ I am currently working on robot manipulators (Fanuc LR Mate 200id 4s to be speci
 
 <!-- [![demo video](../assets/images/vs_fanuc.png)](https://youtu.be/xhDitOjOgP4?si=rT_XWNHFYGiVujal) -->
 
-{% include video id="xhDitOjOgP4" provider="youtube" %}
+{% include video id="lK--YVCa8BM" provider="youtube" %}
