@@ -22,8 +22,9 @@ Hi! I’m a final-year Computer Science and Business Systems student at Bannari 
 
 ## Skills
 - **Programming Languages:** Python, C, C++, MATLAB
-- **Robotics / Computer vision:** Kinematics, ROS2 Drivers, Object Detectors, Pose Estimation
-- **Frameworks / Libraries:** ROS2, OpenCV, NumPy, Py Trees, PyTorch(basics)
+- **Robotics:** ​​Robot Modeling, Kinematics, Motion Planning, Visual Servoing, ROS2 Driver Development​ 
+- **Computer vision:** ​Object Detectors, Object Pose Estimation,​​Classical Computer Vision​
+- **Frameworks / Libraries:** ROS2, OpenCV, NumPy, Py-Trees, PyTorch(basics)
 - **Tools:** Git, Linux, Docker, Arduino IDE
 
 ---
