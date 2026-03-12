@@ -7,7 +7,7 @@ title: "Projects and Competitions"
 
 ### Visual Servoing - Precise Assembly
 
-I Developed a visual servoing package for a FANUC LR Mate 200iD/4S industrial manipulator integrating perception and control for object-centric manipulation and servoing. Designed a hybrid IBVS-PBVS visual servoing controller and implemented the task-level architecture using Py-Trees Behavior Trees for modular manipulation workflows.
+I developed a visual servoing package for a FANUC LR Mate 200iD/4S industrial manipulator integrating perception and control for object-centric manipulation and servoing. Designed a hybrid IBVS-PBVS visual servoing controller and implemented the task-level architecture using Py-Trees Behavior Trees for modular manipulation workflows.
 
 <!-- [![demo video](../assets/images/vs_fanuc.png)](https://youtu.be/xhDitOjOgP4?si=rT_XWNHFYGiVujal) -->
 
@@ -21,9 +21,9 @@ Visual Servoing Pkg: <a href="https://github.com/logeshg2/visual-servoing-pkg" t
 
 ---
 
-### Motion Planning Packages (MPKG)
+### Motion Planning Package (MPKG)
 
-I Developed a sampling-based motion planning package for robotic manipulators, implementing RRT and RRT* algorithms from scratch for high-dimensional robot configuration space. Integrated collision checking, nearest-neighbour search, and shortcut-based path smoothing to generate collision-free path, with visualization.
+I developed a sampling-based motion planning package for robotic manipulators, implementing RRT and RRT* algorithms from scratch for high-dimensional robot configuration space. Integrated collision checking, nearest-neighbour search, and shortcut-based path smoothing to generate collision-free path, with visualization.
 
 ![](../assets/images/fanuc_rrt_star_sim.gif)
 
