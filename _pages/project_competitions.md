@@ -1,9 +1,9 @@
 ---
 permalink: /competitions/
-# title: "Competitions"
+title: "Competitions"
 ---
 
-## Competitions
+<!-- ## Competitions -->
 
 ### RoboCup ARM Challenge 2024 - Finalist (Team: Log Robotics) 
 
