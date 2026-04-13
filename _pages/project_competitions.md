@@ -1,6 +1,6 @@
 ---
 permalink: /competitions/
-title: "Competitions"
+# title: "Competitions"
 ---
 
 <!-- ## Competitions -->

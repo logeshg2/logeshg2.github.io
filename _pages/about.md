@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+# title: "About"
 ---
 
 Hi! I’m Logesh. I have a strong passion for robotics, particularly on robot manipulators.
@@ -32,7 +32,7 @@ Hi! I’m Logesh. I have a strong passion for robotics, particularly on robot ma
 
 ### Projects
 
-### Visual Servoing - Precise Assembly
+#### Visual Servoing - Precise Assembly
 
 I developed a visual servoing package for a FANUC LR Mate 200iD/4S industrial manipulator integrating perception and control for object-centric manipulation and servoing. Designed a hybrid IBVS-PBVS visual servoing controller and implemented the task-level architecture using Py-Trees Behavior Trees for modular manipulation workflows.
 
@@ -48,7 +48,7 @@ Visual Servoing Pkg: <a href="https://github.com/logeshg2/visual-servoing-pkg" t
 
 ---
 
-### Motion Planning Package (MPKG)
+#### Motion Planning Package (MPKG)
 
 I developed a sampling-based motion planning package for robotic manipulators, implementing RRT and RRT* algorithms from scratch for high-dimensional robot configuration space. Integrated collision checking, nearest-neighbour search, and shortcut-based path smoothing to generate collision-free path, with visualization.
 
@@ -58,7 +58,7 @@ Motion Planning Pkg: <a href="https://github.com/logeshg2/motion_planning_pkg" t
 
 ---
 
-### SCARA Robotic Arm
+#### SCARA Robotic Arm
 
 I developed an autonomous SCARA robot capable of picking parcel packages from a tote and placing them on a conveyor in a warehouse environment. The entire operation is hardcoded in Python, and the robot uses the YOLOv8 object detection algorithm to accurately detect parcels.
 
@@ -72,7 +72,7 @@ For more information check: <a href="https://github.com/logeshg2/Autonomous_pick
 
 ---
 
-### BCN-3D Moveo Robotic Arm
+#### BCN-3D Moveo Robotic Arm
 
 My team and I built the open source BCN-3D Moveo robotic arm. Where I contributed by developing the software part in this project. I developed the Moveo model in Robotics Toolbox which enabled IK, FK, and trajectory planning algorithms. I have used ROS1 framework the communication between the different sub-systems.
 
@@ -84,7 +84,7 @@ For more information check: <a href="https://github.com/logeshg2/Moveo_5-DOF_Sof
 
 ---
 
-### Robotic Manipulators (Fanuc Robotic Arm)
+#### Robotic Manipulators (Fanuc Robotic Arm)
 
 I worked on developing the robot model and high level software control for Fanuc Robotic arm (LR Mate 200iD 4s model). Documentation and demo can be seen here: <a href="https://github.com/logeshg2/LR_Mate_200iD_4S-Robot-Model/" target="_blank">Project Repo</a> .
 
