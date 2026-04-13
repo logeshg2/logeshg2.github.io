@@ -67,7 +67,6 @@ author:
   name   : "Logesh G"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : |+
-    Robot manipulators <br>
     Robotics and Computer Vision Enthusiast
   location: "Tamil Nadu, India"
   email: "logeshg248@gmail.com"
@@ -137,9 +136,6 @@ defaults:
       related: true
       toc: true
       toc_sticky: true
-
-footer_scripts:
-  - /assets/js/auto-scroll.js
 
 category_archive:
   type: liquid

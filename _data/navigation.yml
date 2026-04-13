@@ -3,8 +3,8 @@ main:
   #   url: /
   - title: "About"
     url: /
-  - title: "Projects and Competitions"
-    url: /projects_and_competitions/
+  - title: "Competitions"
+    url: /competitions/
   - title: "Certifications"
     url: /certifications/
   # - title: "Posts"
