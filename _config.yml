@@ -67,7 +67,7 @@ author:
   name   : "Logesh G"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : |+
-    Working on robot manipulators <br>
+    Robot manipulators <br>
     Robotics and Computer Vision Enthusiast
   location: "Tamil Nadu, India"
   email: "logeshg248@gmail.com"
@@ -96,9 +96,9 @@ author:
 
 footer:
   links:
-    # - label: "Twitter"
-    #   icon: "fab fa-fw fa-twitter-square"
-    #   url: "https://twitter.com/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://x.com/logesh_g2"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/logeshg2"
@@ -137,6 +137,9 @@ defaults:
       related: true
       toc: true
       toc_sticky: true
+
+footer_scripts:
+  - /assets/js/auto-scroll.js
 
 category_archive:
   type: liquid
